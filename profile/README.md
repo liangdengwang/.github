@@ -1,4 +1,4 @@
-# 梁邓王 (liangdengwang)
+# liangdengwang（梁邓王）
 
 > 人人全栈的专综小组。
 
